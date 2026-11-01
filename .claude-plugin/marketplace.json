@@ -1,0 +1,6 @@
+{
+  "name": "ribbon-light",
+  "owner": { "name": "fureya" },
+  "description": "ribbon-light: the ribbon usage band, with light-mode support.",
+  "plugins": [{ "name": "ribbon-light", "source": "./" }]
+}
